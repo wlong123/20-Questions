@@ -1,0 +1,1 @@
+Is it alive?(It it in your home?(Is it in nature(school,rock),Can you sit on it?(computer,chair)),Is it a pet?(Can it think?(lion,person),Does it have a shell?(dog,turtle)))
