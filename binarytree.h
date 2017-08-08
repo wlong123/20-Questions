@@ -13,6 +13,9 @@ using namespace std;
 	is essentially an abstract class where you can declare methods and implement them if
 	you want to. In this struct the constructors are implemented and all of the other
 	methods are abstract. The rest of the methods are implemented in binarytree1.cpp
+	
+	Good link to start learning C++:
+	https://www.tutorialspoint.com/cplusplus/
 */
 template <class T>  //this must be put at the top of every method to use generics
 struct binarytree{
