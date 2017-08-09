@@ -58,5 +58,6 @@ struct binarytree{
 	bool isFull();
 	bool isComplete();
 	bool isBalanced();
-	string convert();
+	string convert(); //returns a string representation of tree
+	
 };
