@@ -1,6 +1,4 @@
-# cplusplus_BinaryTree
+# 20 Questions
 
-Binary Tree in c++. In addition to the binary tree file
-this repository also contains a header and runner file.
-
-I have also implemented 20 questions in c++.
+Implemented 20 questions game in c++
+using a binary tree that I made.
